@@ -1,8 +1,8 @@
 # Heart-Attack
-We took Dataset of Heart Attack risk.  
-We did some Data Analysis like:  
-1)Data Exploration: Reviewed the dataset structure, types, and missing values.  
-2)Data Cleaning: Addressed missing data and ensured proper formatting.  
-3)Statistical Insights: Calculated key metrics like averages and grouped summaries (e.g., average age by country).  
-4)Visualization: Explored distributions, trends, and relationships using visual tools.  
-5)Documentation: Organized findings for reproducibility and prepared for sharing on Kaggle or GitHub.  
+I analyzed a dataset related to heart attack risk and performed the following steps:    
+
+1. **Data Exploration**: Reviewed the dataset structure, data types, and identified missing values.    
+2. **Data Cleaning**: Handled missing data and ensured the dataset was properly formatted for analysis.    
+3. **Statistical Insights**: Calculated key metrics, such as averages, and performed grouped analyses (e.g., average age by risk factors).    
+4. **Visualization**: Used visual tools to explore distributions, identify trends, and analyze relationships between variables.    
+5. **Documentation**: Compiled findings for clarity, ensuring they are reproducible and ready for sharing on Kaggle or GitHub.    
